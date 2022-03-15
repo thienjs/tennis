@@ -5,13 +5,13 @@ const Coach = () => {
     <>
       <AppLayout>
         {/* <blockquote> */}
-        <h1>Play</h1>
+        <h1>coach</h1>
         <p>
-         Social App for tennis players
+         coach other players
         </p>
         <blockquote>
           <p>  
-           meet, chat, learn with other players
+           
           </p>
         </blockquote>
       </AppLayout>

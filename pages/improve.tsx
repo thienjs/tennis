@@ -5,13 +5,13 @@ const Improve = () => {
     <>
       <AppLayout>
         {/* <blockquote> */}
-        <h1>Play</h1>
+        <h1>Improve</h1>
         <p>
-         Social App for tennis players
+         Chat and ask for advice
         </p>
         <blockquote>
           <p>  
-           meet, chat, learn with other players
+           learn from each other
           </p>
         </blockquote>
       </AppLayout>
